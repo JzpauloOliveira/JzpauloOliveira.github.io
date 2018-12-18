@@ -22,7 +22,7 @@ Programador e design de jogos
 ### Artes
 
 #### Alunos
-[Fofuxo](https://www.google.com/search?q=img+do+gato&rlz=1C1GCEU_pt-BRBR820BR822&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiCuM3T7KnfAhUITZAKHWz3A98Q_AUIDigB&biw=1920&bih=969#imgrc=G2KWRPpZZ7ERzM:)
+![Fofuxo](https://www.google.com/search?q=img+do+gato&rlz=1C1GCEU_pt-BRBR820BR822&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiCuM3T7KnfAhUITZAKHWz3A98Q_AUIDigB&biw=1920&bih=969#imgrc=G2KWRPpZZ7ERzM:)
 
 ### Markdown
 
