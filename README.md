@@ -1,6 +1,6 @@
 ## Meu Portifólio
 
-João Paulo Oliveira, 20
+João Paulo Oliveira, 20 anos
 
 Aluno de desenvolvimento de jogos
 
