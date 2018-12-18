@@ -6,6 +6,23 @@ Aluno de desenvolvimento de jogos
 
 Programador e design de jogos
 
+# Contatos
+
+1. Twiter:
+2. Email:
+3. Sei la
+
+- Numero 1
+- Numero 2
+- Numero 3
+
+## Jogos
+**Jogo 1** : _Um jogo muito legal_
+
+### Artes
+
+#### Alunos
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
