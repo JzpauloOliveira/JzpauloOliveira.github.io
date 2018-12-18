@@ -1,6 +1,6 @@
 ## Meu Portifólio
 
-João Paulo Oliveira, 20 anos
+João Paulo O. da Costa, 20 anos
 
 Aluno de desenvolvimento de jogos
 
