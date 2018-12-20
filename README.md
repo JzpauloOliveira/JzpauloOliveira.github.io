@@ -4,12 +4,12 @@ João Paulo O. da Costa, 20 anos
 
 Aluno de desenvolvimento de jogos
 
-Programador e design de jogos
+Game designer
 
 # Contatos
 
-1. Twiter:
-2. Email:
+1. Facebook:https://www.facebook.com/joaopaulo.coconauta
+2. Email:joaopaulojhon82@gmail.com
 3. Sei la
 
 - Numero 1
