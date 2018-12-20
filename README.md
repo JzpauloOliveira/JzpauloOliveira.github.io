@@ -8,8 +8,8 @@ Game designer
 
 # Contatos
 
-1. Facebook:https://www.facebook.com/joaopaulo.coconauta
-2. Email:joaopaulojhon82@gmail.com
+1. Facebook:[Clique aqui](https://www.facebook.com/joaopaulo.coconauta)
+2. Email:[Gmail](joaopaulojhon82@gmail.com)
 3. Sei la
 
 - Numero 1
@@ -21,8 +21,15 @@ Game designer
 
 ### Artes
 
+[gato de botas](https://www.sitedecuriosidades.com/im/g/C1D87.jpg)
+
+![gato de botas](https://www.sitedecuriosidades.com/im/g/C1D87.jpg)
+
+1 - Adicionar img do computador(Arquivo)
+
+
 #### Alunos
-![Fofuxo](https://www.sitedecuriosidades.com/im/g/C1D87.jpg)
+
 
 ### Markdown
 
