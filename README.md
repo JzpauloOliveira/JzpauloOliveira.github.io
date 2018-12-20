@@ -17,6 +17,7 @@ Game designer
 - Numero 3
 
 ## Jogos
+
 **Jogo 1** : _Um jogo muito legal_
 
 ### Artes
@@ -25,8 +26,9 @@ Game designer
 
 ![gato de botas](https://www.sitedecuriosidades.com/im/g/C1D87.jpg)
 
-1 - Adicionar img do computador(Arquivo)
-
+3 - Adicionar img do computador(Arquivo)
+![Imagem1](NOME JOGO.png)
+![Imagem2](30742428_441749372947348_8011680068080238592_n.jpeg)
 
 #### Alunos
 
