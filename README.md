@@ -5,16 +5,13 @@ João Paulo O. da Costa, 20 anos
 Aluno de desenvolvimento de jogos
 
 Game designer
+### Sobre mim
+- Sou estudante de progração de jogos atualmente e sou do tipo que aprende com os erros e não torno a repeti-los, me dou bem com design e level design e tambem programo.
 
 # Contatos
 
 1. Facebook:[Clique aqui](https://www.facebook.com/joaopaulo.coconauta)
 2. Email:[Gmail](joaopaulojhon82@gmail.com)
-3. Sei la
-
-- Numero 1
-- Numero 2
-- Numero 3
 
 ## Jogos
 
