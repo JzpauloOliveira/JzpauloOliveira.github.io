@@ -6,7 +6,7 @@ Aluno de desenvolvimento de jogos
 
 Game designer
 ### Sobre mim
-![Eu](OMANO.jpeg)
+[![Eu](OMANO.jpeg)(https://www.facebook.com/joaopaulo.coconauta)
 - Sou estudante de progração de jogos atualmente e sou do tipo que aprende com os erros e não torno a repeti-los, me dou bem com design e level design e tambem programo.
 
 # Contatos
@@ -19,16 +19,12 @@ Game designer
 **Jogo 1** : _Um jogo muito legal_
 
 ### Artes
-
-
-
-3 - Adicionar img do computador(Arquivo)
 ![Imagem1](NOME%20JOGO.png)
 ![Imagem2](Esbocodepers.jpg)
 
 4 - Adicionar um link que seja img "Url que seja arquivo".
 
-[![nome do jogo para avaliação de multimidia](NOME%20JOGO.png)](https://www.facebook.com/joaopaulo.coconauta)
+![nome do jogo para avaliação de multimidia](NOME%20JOGO.png)]
 
 <a href="http://blogs.correiobraziliense.com.br/maisbichos/wp-content/uploads/sites/7/2018/01/gato-1024x576.jpg" target="_blank">Clique aqui para ver a img de um gato fofo em uma nova aba</a>
 
