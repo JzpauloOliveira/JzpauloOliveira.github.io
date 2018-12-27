@@ -20,9 +20,7 @@ Game designer
 
 ### Artes
 
-[gato de botas](https://www.sitedecuriosidades.com/im/g/C1D87.jpg)
 
-![gato de botas](https://www.sitedecuriosidades.com/im/g/C1D87.jpg)
 
 3 - Adicionar img do computador(Arquivo)
 ![Imagem1](NOME%20JOGO.png)
@@ -33,9 +31,6 @@ Game designer
 [![nome do jogo para avaliação de multimidia](NOME%20JOGO.png)](https://www.facebook.com/joaopaulo.coconauta)
 
 <a href="http://blogs.correiobraziliense.com.br/maisbichos/wp-content/uploads/sites/7/2018/01/gato-1024x576.jpg" target="_blank">Clique aqui para ver a img de um gato fofo em uma nova aba</a>
-
-#### Alunos
-
 
 ### Markdown
 
