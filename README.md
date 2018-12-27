@@ -6,6 +6,7 @@ Aluno de desenvolvimento de jogos
 
 Game designer
 ### Sobre mim
+![Eu](OMANO.jpeg)
 - Sou estudante de progração de jogos atualmente e sou do tipo que aprende com os erros e não torno a repeti-los, me dou bem com design e level design e tambem programo.
 
 # Contatos
