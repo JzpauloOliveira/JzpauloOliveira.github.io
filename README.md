@@ -1,4 +1,5 @@
 
+
 ## Meu Portifólio
 
 João Paulo O. da Costa, 20 anos
@@ -18,6 +19,7 @@ Game designer
 ## Jogos
 
 **Jogo 1** : The game of Fruits
+
 ![Menu](jogo1menu.png)
 
 ![O jogo](jogo1jogomsm.png)
