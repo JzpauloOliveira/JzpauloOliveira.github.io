@@ -34,6 +34,12 @@
 
 - <a href="https://wesleybilly27.github.io/TFD/" target="_blank">Clique aqui para ir ao jogo 2</a>
 
+**Jogo3** : Unstable Wether
+![Menu](menujogo3.png)
+![O Jogo](jogo3msm.png)
+![O Boss](jogo3boss.png)
+
+- <a href="https://jzpaulooliveira.github.io/jogo3bim/" target="_blank">Clique aqui para ir ao jogo 2</a>
 ### Artes
 
 ![nome do jogo para avaliação de multimidia](NOME%20JOGO.png)
