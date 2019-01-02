@@ -16,7 +16,19 @@ Game designer
 
 ## Jogos
 
-**Jogo 1** : _Um jogo muito legal_
+**Jogo 1** : The game of Fruits
+![Menu](jogo1menu.png)
+
+![O jogo](jogo1jogomsm.png)
+
+- O link para o jogo: [Clique aqui](https://ciceroc.github.io/Game%20fruts/)
+
+**Jogo 2** : The Day Future
+![Imagem1](jogo2i.png)
+
+![Imagem2](jogo2ii.png)
+
+- O link para o jogo: [Clique aqui](https://wesleybilly27.github.io/TFD/)
 
 ### Artes
 ![Imagem1](NOME%20JOGO.png)
