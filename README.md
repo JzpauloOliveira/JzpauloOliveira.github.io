@@ -21,7 +21,7 @@ Game designer
 ![Menu](jogo1menu.png)
 
 ![O jogo](jogo1jogomsm.png)
-- <a href="https://ciceroc.github.io/Game%20fruts/" target="_blank">O link para o jogo</a>
+- <a href="https://ciceroc.github.io/Game%20fruts/" target="_blank">Clique aqui para ir ao jogo 1</a>
 
 
 **Jogo 2** : The Day Future
@@ -29,15 +29,13 @@ Game designer
 
 ![Imagem2](jogo2ii.png)
 
-- O link para o jogo: [Clique aqui](https://wesleybilly27.github.io/TFD/)
+- <a href="https://wesleybilly27.github.io/TFD/" target="_blank">Clique aqui para ir ao jogo 2</a>
 
 ### Artes
-![Imagem1](NOME%20JOGO.png)
+
+![nome do jogo para avaliação de multimidia](NOME%20JOGO.png)
 ![Imagem2](Esbocodepers.jpg)
 ![Imagem3](BSM.png)
-4 - Adicionar um link que seja img "Url que seja arquivo".
-
-![nome do jogo para avaliação de multimidia](NOME%20JOGO.png)]
 
 
 ### Markdown
