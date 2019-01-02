@@ -2,11 +2,12 @@
 
 ## Meu Portifólio
 
-João Paulo O. da Costa, 20 anos
+-João Paulo O. da Costa, 20 anos
 
-Aluno de desenvolvimento de jogos
+-Aluno de desenvolvimento de jogos
 
-Game designer
+-Estudante de Programação de jogos
+
 ### Sobre mim
 ![Eu](OMANO.jpeg)
 - Sou estudante de progração de jogos atualmente e sou do tipo que aprende com os erros e não torno a repeti-los, me dou bem com design e level design e tambem programo.
