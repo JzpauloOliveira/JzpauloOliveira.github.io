@@ -26,7 +26,7 @@ Game designer
 - <a href="https://ciceroc.github.io/Game%20fruts/" target="_blank">Clique aqui para ir ao jogo 1</a>
 
 
-**Jogo 2** : The Day Future
+**Jogo 2** : The Future Day
 ![Imagem1](jogo2i.png)
 
 ![Imagem2](jogo2ii.png)
