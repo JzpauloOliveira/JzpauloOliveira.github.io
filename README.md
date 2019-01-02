@@ -21,8 +21,8 @@ Game designer
 ![Menu](jogo1menu.png)
 
 ![O jogo](jogo1jogomsm.png)
+- <a href="https://ciceroc.github.io/Game%20fruts/" target="_blank">O link para o jogo</a>
 
-- O link para o jogo: [Clique aqui](https://ciceroc.github.io/Game%20fruts/)
 
 **Jogo 2** : The Day Future
 ![Imagem1](jogo2i.png)
@@ -39,7 +39,6 @@ Game designer
 
 ![nome do jogo para avaliação de multimidia](NOME%20JOGO.png)]
 
-<a href="http://blogs.correiobraziliense.com.br/maisbichos/wp-content/uploads/sites/7/2018/01/gato-1024x576.jpg" target="_blank">Clique aqui para ver a img de um gato fofo em uma nova aba</a>
 
 ### Markdown
 
