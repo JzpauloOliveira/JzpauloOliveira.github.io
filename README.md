@@ -1,3 +1,4 @@
+
 ## Meu Portifólio
 
 João Paulo O. da Costa, 20 anos
@@ -33,7 +34,7 @@ Game designer
 ### Artes
 ![Imagem1](NOME%20JOGO.png)
 ![Imagem2](Esbocodepers.jpg)
-
+![Imagem3](bads%20now%20man.png)
 4 - Adicionar um link que seja img "Url que seja arquivo".
 
 ![nome do jogo para avaliação de multimidia](NOME%20JOGO.png)]
